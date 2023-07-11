@@ -1,0 +1,14 @@
+{
+    "name": "silas-er/buscador-php",
+    "description": "Projeto de busca de dados",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Silas",
+            "email": "silasn1@live.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.7"
+    }
+}
